@@ -1,0 +1,142 @@
+Info 0    [21:31:07.616] Starting TS Server
+Info 1    [21:31:07.616] Version: 4.5.5
+Info 2    [21:31:07.616] Arguments: /nix/store/c84mbp6f3w54rslrr6mkvn48njic2lb3-nodejs-14.18.3/bin/node /home/fforelle/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/tsserver.js --logFile /home/fforelle/dev/projeto/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/01f163cf8441def6199be785c5bc1eb4/tscancellation*
+Info 3    [21:31:07.616] Platform: linux NodeVersion: 14 CaseSensitive: true
+Info 4    [21:31:07.616] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [21:31:07.626] Format host information updated
+Info 6    [21:31:07.630] Search path: /home/fforelle/dev/projeto/projeto-a/src
+Info 7    [21:31:07.630] For info: /home/fforelle/dev/projeto/projeto-a/src/App.js :: No config files found.
+Info 8    [21:31:07.634] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 9    [21:31:09.134] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 1499.4504900053144ms
+Info 10   [21:31:09.134] Project '/dev/null/inferredProject1*' (Inferred)
+Info 11   [21:31:09.134] 	Files (148)
+
+Info 12   [21:31:09.134] -----------------------------------------------
+Info 13   [21:31:09.147] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 14   [21:31:09.688] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 540.8664140030742ms
+Info 15   [21:31:09.688] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 16   [21:31:09.688] 	Files (129)
+
+Info 17   [21:31:09.688] -----------------------------------------------
+Info 18   [21:31:09.858] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/src/.#App.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 19   [21:31:09.858] Elapsed:: 0.6211239993572235ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/src/.#App.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 20   [21:31:10.388] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 21   [21:31:10.398] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false structureIsReused:: Completely Elapsed: 9.577296003699303ms
+Info 22   [21:31:10.398] Different program with same set of files
+Info 23   [21:31:10.400] getCompletionData: Get current token: 0.0181410014629364
+Info 24   [21:31:10.400] getCompletionData: Is inside comment: 0.034217000007629395
+Info 25   [21:31:10.400] getCompletionData: Get previous token: 0.037265002727508545
+Info 26   [21:31:10.400] getCompletionsAtPosition: isCompletionListBlocker: 0.23124900460243225
+Info 27   [21:31:10.404] getExportInfoMap: cache miss or empty; calculating new results
+Info 28   [21:31:10.575] forEachExternalModuleToImportFrom autoImportProvider: 109.24737000465393
+Info 29   [21:31:10.575] getExportInfoMap: done in 170.6682169958949 ms
+Info 30   [21:31:10.590] collectAutoImports: resolved 4 module specifiers, plus 0 ambient and -9 from cache
+Info 31   [21:31:10.590] collectAutoImports: response is complete
+Info 32   [21:31:10.590] collectAutoImports: 15.264585003256798
+Info 33   [21:31:10.590] getCompletionData: Semantic work: 189.78537100553513
+Info 34   [21:31:10.610] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 19.292778998613358
+Info 35   [21:31:10.953] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 36   [21:31:10.960] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false structureIsReused:: Completely Elapsed: 7.349553003907204ms
+Info 37   [21:31:10.960] Different program with same set of files
+Info 38   [21:31:11.536] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 39   [21:31:11.543] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false structureIsReused:: Completely Elapsed: 7.079449996352196ms
+Info 40   [21:31:11.543] Different program with same set of files
+Info 41   [21:31:11.543] getCompletionData: Get current token: 0.012295998632907867
+Info 42   [21:31:11.543] getCompletionData: Is inside comment: 0.020232997834682465
+Info 43   [21:31:11.543] getCompletionData: Get previous token: 0.03447599709033966
+Info 44   [21:31:11.543] getCompletionsAtPosition: isCompletionListBlocker: 0.009278997778892517
+Info 45   [21:31:11.545] getExportInfoMap: cache hit
+Info 46   [21:31:11.554] collectAutoImports: resolved 0 module specifiers, plus 0 ambient and 10 from cache
+Info 47   [21:31:11.554] collectAutoImports: response is complete
+Info 48   [21:31:11.554] collectAutoImports: 8.163827002048492
+Info 49   [21:31:11.554] getCompletionData: Semantic work: 10.235367998480797
+Info 50   [21:31:11.566] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 11.921515993773937
+Info 51   [21:31:13.289] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/src/.#App.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 52   [21:31:13.289] Elapsed:: 0.057221002876758575ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/src/.#App.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 53   [21:31:13.492] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 54   [21:31:13.500] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false structureIsReused:: Completely Elapsed: 7.300804995000362ms
+Info 55   [21:31:13.500] Different program with same set of files
+Info 56   [21:49:48.581] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/node_modules :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 57   [21:49:48.582] Elapsed:: 0.3141679987311363ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/node_modules :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 58   [21:49:48.582] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/node_modules :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 59   [21:49:48.582] Elapsed:: 0.12469099462032318ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/node_modules :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 60   [21:49:48.582] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/node_modules :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 61   [21:49:48.582] Elapsed:: 0.020746000111103058ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/node_modules :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 62   [21:49:48.583] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware/init.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 63   [21:49:48.583] Elapsed:: 0.033720001578330994ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware/init.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 64   [21:49:48.584] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware/init.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 65   [21:49:48.584] Elapsed:: 0.11642000079154968ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware/init.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 66   [21:49:48.584] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware/init.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 67   [21:49:48.584] Elapsed:: 0.029660001397132874ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware/init.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 68   [21:49:48.584] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware/query.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 69   [21:49:48.584] Elapsed:: 0.010673001408576965ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware/query.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 70   [21:49:48.584] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware/query.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 71   [21:49:48.584] Elapsed:: 0.027407005429267883ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware/query.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 72   [21:49:48.584] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware/query.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 73   [21:49:48.584] Elapsed:: 0.02900400012731552ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware/query.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 74   [21:49:48.584] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/index.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 75   [21:49:48.584] Elapsed:: 0.010183997452259064ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/index.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 76   [21:49:48.584] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/index.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 77   [21:49:48.584] Elapsed:: 0.028873004019260406ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/index.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 78   [21:49:48.584] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/index.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 79   [21:49:48.584] Elapsed:: 0.023777998983860016ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/index.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 80   [21:49:48.584] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/layer.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 81   [21:49:48.584] Elapsed:: 0.010601997375488281ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/layer.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 82   [21:49:48.584] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/layer.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 83   [21:49:48.584] Elapsed:: 0.024039998650550842ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/layer.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 84   [21:49:48.584] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/layer.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 85   [21:49:48.584] Elapsed:: 0.02419000118970871ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/layer.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 86   [21:49:48.584] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/route.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 87   [21:49:48.584] Elapsed:: 0.008713997900485992ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/route.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 88   [21:49:48.584] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/route.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 89   [21:49:48.584] Elapsed:: 0.025692999362945557ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/route.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 90   [21:49:48.584] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/route.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 91   [21:49:48.584] Elapsed:: 0.024898000061511993ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router/route.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 92   [21:49:48.584] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 93   [21:49:48.585] Elapsed:: 0.05997999757528305ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 94   [21:49:48.585] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 95   [21:49:48.585] Elapsed:: 0.009420998394489288ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 96   [21:49:48.585] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 97   [21:49:48.585] Elapsed:: 0.006707996129989624ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/middleware :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 98   [21:49:48.585] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 99   [21:49:48.585] Elapsed:: 0.05512800067663193ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 100  [21:49:48.585] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 101  [21:49:48.585] Elapsed:: 0.009050995111465454ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 102  [21:49:48.585] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 103  [21:49:48.585] Elapsed:: 0.00707099586725235ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib/router :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 104  [21:49:48.585] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 105  [21:49:48.585] Elapsed:: 0.05470599979162216ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 106  [21:49:48.585] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 107  [21:49:48.585] Elapsed:: 0.020977996289730072ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 108  [21:49:48.585] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 109  [21:49:48.585] Elapsed:: 0.006650000810623169ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules/express/lib :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 110  [21:49:49.841] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 111  [21:49:49.941] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: true structureIsReused:: SafeModules Elapsed: 99.55357199907303ms
+Info 112  [21:49:49.941] Different program with same set of files
+Info 113  [21:49:50.031] FileWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/package.json 1:: WatchInfo: /home/fforelle/dev/projeto/projeto-a/package.json 250 undefined WatchType: package.json file
+Info 114  [21:49:50.032] Elapsed:: 0.7202930003404617ms FileWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/package.json 1:: WatchInfo: /home/fforelle/dev/projeto/projeto-a/package.json 250 undefined WatchType: package.json file
+Info 115  [21:49:50.113] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 116  [21:49:50.114] Elapsed:: 0.5923540070652962ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 117  [21:49:50.114] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 118  [21:49:50.114] Elapsed:: 0.02662600576877594ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 119  [21:49:50.114] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 120  [21:49:50.114] Elapsed:: 0.016190998256206512ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/node_modules :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 121  [21:49:51.365] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 122  [21:49:51.432] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: true structureIsReused:: SafeModules Elapsed: 66.7733199968934ms
+Info 123  [21:49:51.432] Different program with same set of files
+Info 124  [21:49:51.438] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 125  [21:49:51.482] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 2 structureChanged: true structureIsReused:: SafeModules Elapsed: 44.371223002672195ms
+Info 126  [21:49:51.482] Different program with same set of files
+Info 127  [21:49:53.618] Before ensureProjectForOpenFiles:
+Info 128  [21:49:53.619] After ensureProjectForOpenFiles:
+Info 129  [21:49:53.619] got projects updated in background, updating diagnostics for /home/fforelle/dev/projeto/projeto-a/src/App.js
+Info 130  [23:02:35.370] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/src/.#App.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 131  [23:02:35.370] Elapsed:: 0.025305993854999542ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/src/.#App.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 132  [23:02:35.573] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 133  [23:02:35.599] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 8 structureChanged: false structureIsReused:: Completely Elapsed: 26.21179299801588ms
+Info 134  [23:02:35.599] Different program with same set of files
+Info 135  [23:02:36.149] DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/src/.#App.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 136  [23:02:36.149] Elapsed:: 0.04960300028324127ms DirectoryWatcher:: Triggered with /home/fforelle/dev/projeto/projeto-a/src/.#App.js :: WatchInfo: /home/fforelle/dev/projeto/projeto-a/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 137  [23:02:36.352] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 138  [23:02:36.361] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 9 structureChanged: false structureIsReused:: Completely Elapsed: 9.202667996287346ms
+Info 139  [23:02:36.362] Different program with same set of files
