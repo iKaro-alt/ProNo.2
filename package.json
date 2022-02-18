@@ -1,25 +1,14 @@
 {
   "name": "projeto",
   "version": "1.0.0",
-  "description": "Ferramenta de analise fundamentalista",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/iKaro-alt/projeto-a.git"
-  },
-  "keywords": [
-    "Analise",
-    "fundamentalista"
-  ],
-  "author": "Icaro Onofre Silva & Jose Carlos da Silva",
-  "license": "BSD-2-Clause",
-  "bugs": {
-    "url": "https://github.com/iKaro-alt/projeto-a/issues"
-  },
-  "homepage": "https://github.com/iKaro-alt/projeto-a#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "react": "^17.0.2"
   }
